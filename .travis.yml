@@ -1,6 +1,6 @@
-language: node.js
+language: node_js
 node_js:
-  - '4.2'
+  - '8.9.4'
 sudo: required
 dist: trusty
 
