@@ -1,5 +1,6 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/52f639dbde264b369de9aa7154b2d4c0)](https://www.codacy.com/app/caseyokane-8451/OpenSource-DevOps-Web-Ui?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=caseyokane-8451/OpenSource-DevOps-Web-Ui&amp;utm_campaign=Badge_Grade)
-
+[![Build Status](https://travis-ci.org/caseyokane-8451/OpenSource-DevOps-Web-Ui.svg?branch=master)](https://travis-ci.org/caseyokane-8451/OpenSource-DevOps-Web-Ui)
+[![forthebadge](http://forthebadge.com/images/badges/uses-badges.svg)](http://forthebadge.com)
 # OpenSourceDevOpsWebUi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
