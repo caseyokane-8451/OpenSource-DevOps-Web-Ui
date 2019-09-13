@@ -3,6 +3,8 @@
 [![forthebadge](http://forthebadge.com/images/badges/uses-badges.svg)](http://forthebadge.com)
 # OpenSourceDevOpsWebUi
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/be49052f2c6441418b8cef9d86df1771)](https://app.codacy.com/app/caseyokane-8451/OpenSource-DevOps-Web-Ui?utm_source=github.com&utm_medium=referral&utm_content=caseyokane-8451/OpenSource-DevOps-Web-Ui&utm_campaign=badger)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
 
 ## Development server
